@@ -7,4 +7,4 @@
 
 ** Circuito completo**
 
-![Imagen Alt](https://github.com/ErickGuzman-setdet/display-with-bottons-ESP32/imagen/circuito)
+![Imagen Alt](https://github.com/ErickGuzman-setdet/display-with-bottons-ESP32/blob/main/imagen/circuito.png)
