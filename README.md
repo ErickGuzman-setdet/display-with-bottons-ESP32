@@ -1,11 +1,11 @@
 **MATERIALES**
  
  
- 1.- ESP32
- 2.- 2 Botones 
- 3.- Display Catodo Comun
- 4.- 7 Resistencias 220/330 Ω
- 5.- Muchos Jumpers y protobord :)
+-- ESP32---
+-- 2 Botones 
+-- Display Catodo Comun
+-- 7 Resistencias 220/330 Ω
+-- Muchos Jumpers y protobord :) --
 
 
 **Circuito completo**
